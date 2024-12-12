@@ -16,7 +16,6 @@
     "eject": "react-scripts eject",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -43,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KutsVlad8/ReactTemplate.git"
+    "url": "https://github.com/KutsVlad8/pokemons.git"
   },
-  "homepage": "https://KutsVlad8.github.io/ReactTemplate"
+  "homepage": "https://KutsVlad8.github.io/pokemons"
 }
